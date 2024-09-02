@@ -21,3 +21,10 @@ console.log(roll);
 for (const number of roll){
     console.log(number);
 }
+
+const components = ['cpu', 'motherboard', 'ram', 'io'];
+console.log(components);
+
+for(const component of components){
+    console.log(component);
+}
