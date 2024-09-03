@@ -12,3 +12,16 @@ while (num <= 5){
     // num +=1;
     num++;
 }
+
+let call = 0;
+while (call < 100){
+    console.log("I Love You Sanziii",call);
+
+    call = call + 1;
+}
+
+let numbers = 0;
+while (numbers <= 20 ){
+    console.log("I Hate You", numbers);
+    numbers++;
+}
