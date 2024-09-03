@@ -27,4 +27,5 @@ console.log(components);
 
 for(const component of components){
     console.log(component);
+    console.log("I want to buy");
 }
